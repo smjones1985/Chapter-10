@@ -7,3 +7,12 @@ C:\Users\Justin\source\repos\Chapter 10\Chapter10Exercise9\Chapter10Exercise9\ob
 C:\Users\Justin\source\repos\Chapter 10\Chapter10Exercise9\Chapter10Exercise9\obj\Debug\Chapter10Exercise9.csproj.CoreCompileInputs.cache
 C:\Users\Justin\source\repos\Chapter 10\Chapter10Exercise9\Chapter10Exercise9\obj\Debug\Chapter10Exercise9.exe
 C:\Users\Justin\source\repos\Chapter 10\Chapter10Exercise9\Chapter10Exercise9\obj\Debug\Chapter10Exercise9.pdb
+C:\Users\Sean\Source\Repos\Chapter-10\Chapter10Exercise9\Chapter10Exercise9\bin\Debug\Chapter10Exercise9.exe.config
+C:\Users\Sean\Source\Repos\Chapter-10\Chapter10Exercise9\Chapter10Exercise9\bin\Debug\Chapter10Exercise9.exe
+C:\Users\Sean\Source\Repos\Chapter-10\Chapter10Exercise9\Chapter10Exercise9\bin\Debug\Chapter10Exercise9.pdb
+C:\Users\Sean\Source\Repos\Chapter-10\Chapter10Exercise9\Chapter10Exercise9\obj\Debug\Chapter10Exercise9.csprojResolveAssemblyReference.cache
+C:\Users\Sean\Source\Repos\Chapter-10\Chapter10Exercise9\Chapter10Exercise9\obj\Debug\Chapter10Exercise9.Shirts.resources
+C:\Users\Sean\Source\Repos\Chapter-10\Chapter10Exercise9\Chapter10Exercise9\obj\Debug\Chapter10Exercise9.csproj.GenerateResource.cache
+C:\Users\Sean\Source\Repos\Chapter-10\Chapter10Exercise9\Chapter10Exercise9\obj\Debug\Chapter10Exercise9.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Source\Repos\Chapter-10\Chapter10Exercise9\Chapter10Exercise9\obj\Debug\Chapter10Exercise9.exe
+C:\Users\Sean\Source\Repos\Chapter-10\Chapter10Exercise9\Chapter10Exercise9\obj\Debug\Chapter10Exercise9.pdb
